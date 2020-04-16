@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+bower_components/
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+.project
+
+# Others
+
+*.log
+*.txt
