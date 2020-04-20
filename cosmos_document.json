@@ -1,0 +1,19 @@
+{
+    "id": "S103",
+    "StudentNumber": "103",
+    "AcademicYear": "2019",
+    "Name": {
+      "Forename": "Lorem",
+      "Lastname": "Ipsum"
+    },
+    "CourseGrades": [
+      {
+        "Course": "Computer Science",
+        "Grade": "A"
+      },
+      {
+        "Course": "Applied Mathematics",
+        "Grade": "B"
+      }
+    ]
+  }
